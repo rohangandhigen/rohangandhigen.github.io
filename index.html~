@@ -92,9 +92,6 @@
 	<font style="font-size:15">
 	  <h2> Publications</h2>
  	  <ul>
-	    <li> Akshay Jajoo, Rohan Gandhi, Y. Charlie Hu <a href="http://web.ics.purdue.edu/~gandhir/papers/hotcloud16-graviton.pdf?pdf=graviton-pdf">
-		Graviton: Twisting space and time to speed up CoFlows</a>,<em> HotCloud'16 </em>
-	    </li>
 	    <li> Rohan Gandhi, Y. Charlie Hu, Ming Zhang <a href="http://web.ics.purdue.edu/~gandhir/papers/eurosys16-yoda.pdf?pdf=yoda-pdf">
 		Yoda: Highly available layer-7 load balancer</a>,<em> Eurosys'16 </em>
 	    </li>
